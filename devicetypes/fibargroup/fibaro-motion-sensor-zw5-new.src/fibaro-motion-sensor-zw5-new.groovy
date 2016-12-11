@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "Fibaro Motion Sensor ZW5", namespace: "fibargroup", author: "Fibar Group S.A.") {
+	definition (name: "Fibaro Motion Sensor ZW5 New", namespace: "fibargroup", author: "Fibar Group S.A.") {
 		capability "Battery"
 		capability "Configuration"
 		capability "Illuminance Measurement"
